@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Portal Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on The Portal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Gulf of Mexico Fishery Management Council</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sargassum</title>
+      <link>/post/sargassum/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sargassum/</guid>
+      <description>What is it? If you haven’t spent any time on a boat in the ocean, you may not be familiar with this habitat. Unlike the other habitat types highlighted on this blog, Sargassum is primarily found offshore (except when it washes ashore in huge mats, which occasionally happens in the USA).
+A Sargassum line can stretch for miles across the ocean surface.</description>
+    </item>
+    
+    <item>
+      <title>Mangroves</title>
+      <link>/post/mangroves/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mangroves/</guid>
+      <description>What are they? Mangroves are trees and shrubs that live in salty water. Not many trees can do this, which is readily apparent in some areas of coastal Louisiana, where saltwater intrusion has killed plants that aren’t well-equipped to live in such a hostile environment.
+Trees killed by saltwater intrusion. Image: Daniel Strain (Maryland Sea Grant)
+ When people imagine mangroves, they usually are thinking of red mangroves.</description>
+    </item>
+    
+    <item>
+      <title>Seagrasses</title>
+      <link>/post/seagrasses/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/seagrasses/</guid>
+      <description>What are they? Exactly what they sound like, grasses that grow under water! While often mistaken for seaweed, they are actually more similar to the grass in your yard. They have roots, stems and leaves, and produce flowers and seeds, plus they need light to grow. Unlike your lawn though, they grow completely submerged in water.
+Seagrass. Image: NOAA Fisheries
+ There are about 52 species of seagrass worldwide, growing as far north as the Arctic Circle, but around the Gulf Coast there are six.</description>
+    </item>
+    
+  </channel>
+</rss>
